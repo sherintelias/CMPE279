@@ -4,7 +4,7 @@
 1. Sherin Thlakulathil Elias (014635504)
 2. Anagha Sethuraman (015220517)
 
-## Assignment 1
+## Assignment 1 & Assignment 2
 
 Instructions to run:
 
